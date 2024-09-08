@@ -5,7 +5,6 @@ uint64_t square(uint8_t index){
     }
     uint64_t out=1;
     return out << (index-1);
-
 }
 uint64_t total(void){
     uint64_t sum=0;
@@ -15,3 +14,4 @@ uint64_t total(void){
     }
     return sum;
 }
+
