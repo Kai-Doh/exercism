@@ -1,0 +1,6 @@
+.exercism
+test-framework
+makefile
+test-*.c
+HELP.md
+README.md
