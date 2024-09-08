@@ -1,6 +1,6 @@
 .exercism
 test-framework
 makefile
-test-*.c
+test_*.c
 HELP.md
 README.md
